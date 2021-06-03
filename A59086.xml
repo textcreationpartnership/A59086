@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sad and lamentable newes from Holland Being a true relation of the great and wonderful inundation of waters, that brake in at the town of Gorkham, in the night-time, near the city of Amsterdam, where many stately houses became bnried [sic] in the violent waves; both men, vvomen and children perishing in the raging billows. Also, the manner how the waters brake in again with great violence, on Munday last about noon, at the two strong sluces of Bonmel and Thieler, where about thirty villages were drowned and not any thing to be seen, but the tops of some few steeples and chimneys, many perishing in the vvaters; some escaping in boats, and the poor infants floating upon the raging vvaves in their swadling-bands and cradles together with the sad and wofull cries and groans of the poor distressed inhabitants; and the ringing of the bells backward, to prevent the perishing of others.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59086</idno><idno type="EEBO-CITATION">99831275</idno>
+  <idno type="VID">35738</idno>
+  <idno type="EEBO-PROQUEST">2248501643</idno>
+  
+            <idno type="STC">Wing S242A</idno>
+            <idno type="STC">ESTC R219828</idno>
+            <idno type="PROQUEST">99831275</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99831275e"/>
+            <note>(EEBO-TCP ; phase 2, no. A59086)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35738)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2041:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sad and lamentable newes from Holland Being a true relation of the great and wonderful inundation of waters, that brake in at the town of Gorkham, in the night-time, near the city of Amsterdam, where many stately houses became bnried [sic] in the violent waves; both men, vvomen and children perishing in the raging billows. Also, the manner how the waters brake in again with great violence, on Munday last about noon, at the two strong sluces of Bonmel and Thieler, where about thirty villages were drowned and not any thing to be seen, but the tops of some few steeples and chimneys, many perishing in the vvaters; some escaping in boats, and the poor infants floating upon the raging vvaves in their swadling-bands and cradles together with the sad and wofull cries and groans of the poor distressed inhabitants; and the ringing of the bells backward, to prevent the perishing of others.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for J. Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 3 reads: Sad and lamentable nevves from Holland.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Floods --  Netherlands --  Early works to 1800.</term>
+               <term type="topical_term">Natural disasters --  Netherlands --  Early works to 1800.</term>
+               <term type="topical_term">Drowning --  Netherlands --  Early works to 1800.</term>
+               <term type="topical_term">Drowning victims --  Netherlands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35738:1"/>
+            <p>Sad and Lamentable Newes FROM HOLLAND.</p>
+            <p>BEING A True Relation of the Great and Wonderful Inundation of Waters, that brake in at the Town of <hi>Gorkham,</hi> in the Night-time, near the City of <hi>Amsterdam,</hi> where many stately Houses became buried in the violent Waves; both Men, VVomen and Children perishing in the raging Billows.</p>
+            <p>Also, The Manner how the Waters brake in again with great Violence, on Mun<g ref="char:EOLhyphen"/>day last about Noon, at the two strong Sluces of <hi>Bonmel</hi> and <hi>Thieler,</hi> where about Thirty Villages were drown<g ref="char:EOLhyphen"/>ed and not any thing to be seen, but the tops of some few Steeples and Chimneys, many perishing in the VVaters; some escaping in Boats, and the poor Infants floating upon the raging VVaves in their Swadling-bands and Cradles</p>
+            <p>Together with the sad and wofull Cries and Groans of the poor distressed Inhabitants; and the Ringing of the Bells backward, to pre<g ref="char:EOLhyphen"/>vent the perishing of others.</p>
+            <p>London, Printed for J. Johnson, 1663.</p>
+            <pb facs="tcp:35738:2"/>
+            <pb facs="tcp:35738:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:35738:3"/>
+            <pb n="3" facs="tcp:35738:3"/>
+            <head>Sad and Lamentable NEWES FROM HOLLAND.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce my last unto you, dated from the <hi>Brill,</hi> I gave you an account of our Winter-sufferings in these parts, which were exceeding great and deplorable; but that which I have now to communicate, doth far surpass the greatest calami<g ref="char:EOLhyphen"/>ties that hath befallen these Countreys for many years. For indeed, through the abundance of Snow falling for several dayes together, and upon a sud<g ref="char:EOLhyphen"/>den Thaw also, the Seas swell'd, and the Waters
+<pb facs="tcp:35738:4"/> grew so exceeding high, that the Foundations of the Earth, and strong Banks were too weak for the mighty force of the Waters, insomuch, that the Town of <hi>Garkham, Warsald, Flute,</hi> and all the neigh<g ref="char:EOLhyphen"/>bouring Villages, have received very great dama<g ref="char:EOLhyphen"/>ges; by reason of the sudden Inundation of the Waters about 11 of the Clock at Night, which brake down the strong Sluce, called the Defence, near unto the aforesaid Town of <hi>Garkham;</hi> divers of the Inhabitants being immediately surprized, by the raging Billows, and furious Waves, of the merciless Seas, having no notice to secure their own lives, or any thing that was near and dear unto them but all the Inhabitants in general, running some one way, and some another, the streets sound<g ref="char:EOLhyphen"/>ing with loud shrieks, and lamentable Out-Cryes, the Parents making doleful moan for their poor Children, and the Children sighing out sad and Lamentable Cryes, for their dear and carefull Pa<g ref="char:EOLhyphen"/>rents.</p>
+            <p>And truly had not the Magistrates of the Town been exceeding vigilant, the loss might have been far greater, but by firing of the Great Guns, and ringing of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Bells backward, the Inhabitants of the adjacent parts, had notice of this sad inundati<g ref="char:EOLhyphen"/>on of Waters so that having this timely notice, many hundreds of Men, Women, and Children by the infinite Mercies of God, escaped that which the Hand of Providence had decreed for others: for many in the night-time perished, the houses (most of them) being before morning covered with Wa<g ref="char:EOLhyphen"/>ters,
+<pb n="5" facs="tcp:35738:4"/> and not any thing of some of them to be seen, but onely the tops of Chimneys. Yet, blessed be God, m ny escaped away in small Boats, and other little Vessels, saving their Children, and some few Goods. But alas! here it did not end: for the next day betwixt 11. and 12. of the Clock in the Forenoon, the Waters came in again with great vio<g ref="char:EOLhyphen"/>lence, broke down the two strong Sluces of <hi>Bonmel</hi> and <hi>Thieles,</hi> the roaring Billows and raging Waves, running several wayes, on a sudden transcended the tops of many houses, the Inhabitants being forced, as before, to shirt for themselves, some poor Infants floating upon the lofty Waters, even in their swad<g ref="char:EOLhyphen"/>ling-clouts and Cradles, which it pleased God out of his infinite Mercies miraculously to preserve from those near approaching dangers and to make str<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gers as well as their Relations, to adventure forth in Boats, to take them in, and preserve them from <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>estruct<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on.</p>
+            <p>But notwithstanding many were preserved, a gr<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t number there were that perished by these sudden Inundations, and great store of Cattel like<g ref="char:EOLhyphen"/>wise there being almost forty Villages drowned, and no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> any thing to be seen but here and there the top of a Chimney, or a Church Steeple, and the Countrey f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r many miles together seeming like a gre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Sea, of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he main Ocean, to the un<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>k<g ref="char:EOLhyphen"/>able grief of m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ny thousands, the loss b<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>x<g ref="char:EOLhyphen"/>ceeding great and as 'tis probably conjectures, a<g ref="char:EOLhyphen"/>amounts to many Millions for indeed as yet it is unknown.</p>
+            <pb n="6" facs="tcp:35738:5"/>
+            <p>The Inhabitants that fled in Boats, and the like, are many; yet many there are that miss each his Friend: and as there are some left Fatherless and Motherless, so are there many likewise left Childless; and great enquiry up and down the Countreys, for their several Friends and Relations.</p>
+            <p>Many have been taken up dead in sundry remote places, and all possible means are u<g ref="char:EOLhyphen"/>sed by Engines, and other Instruments, for the draining of the Waters; which the Lord of his infinite Goodness prosper: and grant that for the time to come, not onely the In<g ref="char:EOLhyphen"/>habitants here in the Netherlands, but all o<g ref="char:EOLhyphen"/>thers, throughout their respective Territories and Dominions, may bee preserved from these sad and destructive Inundations.</p>
+            <p>Since this great Inundation, we hear of some further loss at Sea, especially towards the Northern parts, where there hath been such strange Hurricanoes, and great storms, that the like hath not been these many years. As touching the Ship you writ to me about, whose Voyage was to the Canaries in which
+<pb n="7" facs="tcp:35738:5"/> Captain Johnson was concern'd, we hear not any thing as yet of her; but ere long, I doubt not but to answer your expectation therein. In the mean time, be pleased to take notice, that I have dispatched away your last Letters, both to Hamborough, and the other places. I would have been more large upon these particulars; but by reason of the late Inundations, our time is spent in the strengthening of many other Sluces, and repairing of the Sea-Banks about this City, the storms being exceeding great in these parts, and for many years, the like not known, in relation to Navigation. We have sundry gallant experienced Gentlemen come from divers places, unto whom our States are highly obliged for their indefatigable pains, and great care to prevent any future Inunda<g ref="char:EOLhyphen"/>tion: some Sluces which they have already made some progress in, seem impregnable; and many excellent Devices and Stratagems have they used, both of Wood and Iron, not only for the draining of the Waters, but also for the strengthening of the Sea-Banks.</p>
+            <closer>
+               <dateline>Amsterdam,
+<date>Febr. 7.</date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
